@@ -11,9 +11,50 @@
     "height": 1,
     "width": 2
   },
+  "button3": {
+    "row": 2.6,
+    "col": 4,
+    "height": 1,
+    "width": 2
+  },
+  "button4": {
+    "row": 1,
+    "col": 6,
+    "height": 1,
+    "width": 2
+  },
+  "editableText1": {
+    "row": 16.6,
+    "col": 1,
+    "height": 0.6,
+    "width": 4
+  },
+  "image1": {
+    "row": 5.6
+  },
+  "mixedChart1": {
+    "row": 8.8,
+    "col": 7,
+    "height": 7.6,
+    "width": 5
+  },
   "tabbedContainer1": {
-    "row": 7.6,
+    "row": 16.4,
     "col": 2,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabbedContainer2": {
+    "row": 4.4,
+    "col": 4,
     "height": 0.2,
     "width": 6,
     "stackPosition": {
@@ -30,5 +71,16 @@
     "rowGroup": "header",
     "height": 0.6,
     "width": 12
+  },
+  "tabs2": {
+    "container": "tabbedContainer2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "text1": {
+    "row": 8.8,
+    "col": 4,
+    "height": 1
   }
 }
